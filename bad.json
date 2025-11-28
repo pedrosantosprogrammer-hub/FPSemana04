@@ -1,5 +1,1 @@
-cat > missing_fields.json <<EOF
-{
-  "nome": "Bob"
-}
-EOF
+isto NÃO é json
