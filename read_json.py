@@ -9,7 +9,7 @@ def print_concluido():
     print("Processo Concluído!")
 
 def main():
-    # aceitar exactamente 1 argumento: caminho para o ficheiro JSON
+    # aceitar exatamente 1 argumento: caminho para o ficheiro JSON
     if len(sys.argv) != 2:
         print("Uso: python read_json.py <ficheiro.json>")
         print_concluido()
